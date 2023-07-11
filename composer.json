@@ -4,7 +4,7 @@
     "type": "skeleton",
     "require": {
         "php": "^8.2",
-        "julien-boudry/condorcet": "^4.4"
+        "julien-boudry/condorcet": "^4.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.2",
